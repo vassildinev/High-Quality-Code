@@ -5,7 +5,7 @@
     using Renderers;
     using Engine;
 
-    public class MatrixWalk
+    public class EntryPoint
     {
         public static void Main()
         {
