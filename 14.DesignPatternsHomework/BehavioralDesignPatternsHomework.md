@@ -32,3 +32,7 @@
  - Flyweight
 
 ***
+**Източници**
+
+Google, Wikipedia, http://www.nakov.com/blog/2011/12/27/free-bulgarian-design-patterns-book/ - Класически шаблони за дизайн
+***
