@@ -69,7 +69,7 @@
 
 **Пример**
 
-![](https://www.google.bg/search?q=command+pattern+c%23&espv=2&biw=1366&bih=643&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAmoVChMIyZrvwOyOyAIVCVYaCh24oAtg#tbm=isch&q=command+pattern+c%23+example&imgrc=J2Ty2R-UZCOvCM%3A)
+![](http://www.dotnet-tricks.com/Content/images/designpatterns/command1.png)
 
 **Свързани шаблони**
  * Composite
